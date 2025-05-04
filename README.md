@@ -28,7 +28,7 @@ Authentication: JWT-based token system
 
 Installation & Setup
 1. Clone the Repository
-git clone https://github.com/your-username/creator-dashboard.git
+git clone https://github.com/SreeKarthika123/creator-dashboard1.git
 cd creator-dashboard
 2.Backend Setup
 cd backend
