@@ -47,6 +47,8 @@ Screenshots of App:
 ![image](https://github.com/user-attachments/assets/f391217a-03f6-4af5-9d12-8d90a593b1ac)
 ![image](https://github.com/user-attachments/assets/0ca963fb-a740-4100-80ca-59fd71694888)
 ![image](https://github.com/user-attachments/assets/80dcc24d-406b-4607-89db-bac90dd13ece)
+![image](https://github.com/user-attachments/assets/34299f2e-27d9-407f-842c-8e795dfbb28f)
+
 ![image](https://github.com/user-attachments/assets/f203633d-e29e-4b93-bdff-ae783a9c8322)
 
 
