@@ -39,3 +39,19 @@ Frontend Setup
 cd ../frontend
 npm install
 npm start
+
+Screenshots of App:
+![image](https://github.com/user-attachments/assets/b1789be0-7a98-45b4-8568-5d54d6559323)
+![image](https://github.com/user-attachments/assets/146ea152-2f06-45e8-bf6b-5171c6137337)
+![image](https://github.com/user-attachments/assets/669de71f-fc0f-481c-afc4-84bfadb6eecc)
+![image](https://github.com/user-attachments/assets/f391217a-03f6-4af5-9d12-8d90a593b1ac)
+![image](https://github.com/user-attachments/assets/0ca963fb-a740-4100-80ca-59fd71694888)
+![image](https://github.com/user-attachments/assets/80dcc24d-406b-4607-89db-bac90dd13ece)
+![image](https://github.com/user-attachments/assets/f203633d-e29e-4b93-bdff-ae783a9c8322)
+
+
+
+
+
+
+
